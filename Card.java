@@ -17,7 +17,6 @@ public class Card {
 	static HashMap<String, Integer> valueToInt= new HashMap<String, Integer>();
 	static HashMap<Integer, String> intToCard = new HashMap<Integer, String>();
 	
-	
 	public Card(){
 		this.suit = "NULL";
 		this.value = "NULL";
