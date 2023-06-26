@@ -59,10 +59,6 @@ This project consists of several Java classes:
 Additionally, the `recources` folder contains various resources used in the game, and the `poker.jar` file is a standalone executable version of the game.
 
 
-## Development
-
-This project is developed entirely in Java, showing the versatility and power of the language in developing interactive applications. The project has 5 commits as of the last update. 
-
 ## Contributing
 
 Contributions to this project are welcome! If you have a feature you'd like to add, or you've discovered a bug, feel free to fork this repository and submit a pull request. There are no specific contribution guidelines at the moment, but please ensure your code is clean, well-documented, and that all tests pass before submitting your pull request.
